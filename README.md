@@ -5,7 +5,7 @@
 - 📫 How to reach me: liwei-8466@qq.com
 - ⚡ Fun fact: full stack developer is man that do all the work😫
 
-![github stats](https://github-readme-stats.vercel.app/api?username=monkeyWie&show_icons=true&theme=radical&hide_title=1)
+![github stats](https://github-readme-stats.vercel.app/api?username=monkeyWie&show_icons=true&theme=radical&hide_title=1&include_all_commits=true)
 
 ### Finding a downloader? Try this!
 
