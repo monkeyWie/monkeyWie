@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm MonkeyWie 👋
 
-<!--
-**monkeyWie/monkeyWie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on unknown internet company
+- 🌱 I’m currently learning golang and flutter
+- 📫 How to reach me: liwei-8466@qq.com
+- ⚡ Fun fact: full stack developer is man that do all the work😫
 
-Here are some ideas to get you started:
+![github stats](https://github-readme-stats.vercel.app/api?username=monkeyWie&show_icons=true&theme=radical&hide_title=1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Finding a downloader? Try this!
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=proxyee-down-org&repo=proxyee-down&theme=radical)](https://github.com/proxyee-down-org/proxyee-down)
+
+### If u want a http proxy server,try this!
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=monkeyWie&repo=proxyee&theme=radical)](https://github.com/monkeyWie/proxyee)
