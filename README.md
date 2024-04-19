@@ -1,5 +1,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FmonkeyWie%2FmonkeyWie&countColor=%23263759)
 
+<a href="https://trendshift.io/developers/792" target="_blank"><img src="https://trendshift.io/api/badge/developers/792" alt="monkeyWie | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 ### Hi there 👋
 
 Hi, I'm MonkeyWie, coding makes me happy.
